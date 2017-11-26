@@ -1,0 +1,16 @@
+/* default html style */
+
+h4 {
+	color: #FF9800;
+	font-weight: normal;
+	font-size: 1.1em;
+}
+
+a {
+	color: #2196F3;
+}
+
+a:hover {
+	color: #1976D2;
+	text-decoration: underline;
+}

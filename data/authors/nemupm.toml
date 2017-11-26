@@ -1,0 +1,13 @@
+id = "nemupm"
+
+[email]
+username = "nemupm"
+host = "gmail.com"
+
+[name]
+display = "nemupm"
+
+[social]
+email = ""
+facebook  = ""
+twitter = "nemupm"
