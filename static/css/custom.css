@@ -1,24 +1,45 @@
 /* default html style */
 
-.entry-content h1 {
-	border-bottom: 1px solid rgba(0, 0, 0, 0.07);
-	padding-bottom: 5px;
+* {
+	font-family: "游ゴシック",YuGothic,"ヒラギノ角ゴ Pro","Hiragino Kaku Gothic Pro","メイリオ","Meiryo",sans-serif !important;
 }
 
-.entry-content h2 {
+body {
+	font-size: 16px;
+}
+
+.comments-container #disqus_thread, .entry-content, .entry-cover, .entry-cover figcaption, .entry-footer, .entry-nav, .entry-toc, .footer, .header, .home-sections, .list, .pagination, .term-cloud {
+	max-width: 840px;
+}
+
+h1, h2, h3, h4 {
+	font-weight: normal;
+}
+
+.header-info .title {
+	text-transform: none;
+}
+
+.entry-content h1 {
 	border-bottom: 1px solid rgba(0, 0, 0, 0.07);
 	padding-bottom: 5px;
 	font-size: 1.6em;
 }
 
-.entry-content h3 {
+.entry-content h2 {
+	border-bottom: 1px solid rgba(0, 0, 0, 0.07);
+	padding-bottom: 5px;
 	font-size: 1.4em;
+}
+
+.entry-content h3 {
+	color: #FF9800;
+	font-size: 1.2em;
 }
 
 h4 {
 	color: #FF9800;
-	font-weight: normal;
-	font-size: 1.1em;
+	font-size: 1.2em;
 }
 
 a {
