@@ -3,9 +3,11 @@
 * hugo
     * `brew install hugo`
 
-# Preview
+# Development
 
 ```.sh
+$ git clone <repo>
+$ git submodule -f update --init --recursive
 $ hugo server -D
 ```
 
