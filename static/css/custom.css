@@ -8,7 +8,11 @@ body {
 	font-size: 16px;
 }
 
-.comments-container #disqus_thread, .entry-content, .entry-cover, .entry-cover figcaption, .entry-footer, .entry-nav, .entry-toc, .footer, .header, .home-sections, .list, .pagination, .term-cloud {
+.main-menu+.header-widgets {
+	margin-top: 0;
+}
+
+.container, .comments-container #disqus_thread, .entry-content, .entry-cover, .entry-cover figcaption, .entry-footer, .entry-nav, .entry-toc, .home-sections, .list, .pagination, .term-cloud {
 	max-width: 840px;
 }
 
