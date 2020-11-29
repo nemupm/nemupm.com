@@ -7,15 +7,17 @@ comments: false
 
 #### EMPLOYMENT
 
-Data / Web Engineer
+Data / Web / Game Engineer
 
 #### STUDYING
 
-Hadoop / Hive / Presto / fluentd / Angular・ngrx
+C++ / SQL / Hadoop / Hive / Presto / fluentd / Angular・ngrx / k8s
 
 #### INTEREST
 
-弐瓶勉 / [将棋](https://shogiwars.heroz.jp/users/nemu__tsuki) / 囲碁 / Programming Contest / the band apart
+弐瓶勉 / [将棋](https://shogiwars.heroz.jp/users/nemu__tsuki) / 囲碁
+ / Programming Contest（[AtCoder](https://atcoder.jp/users/nemupm)・[CodeForces](https://codeforces.com/profile/nemupm)）
+ / the band apart
 
 #### LOCATION
 

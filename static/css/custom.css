@@ -1,7 +1,11 @@
 /* default html style */
 
 * {
-	font-family: "游ゴシック",YuGothic,"ヒラギノ角ゴ Pro","Hiragino Kaku Gothic Pro","メイリオ","Meiryo",sans-serif !important;
+	font-family: "游ゴシック",YuGothic,"ヒラギノ角ゴ Pro","Hiragino Kaku Gothic Pro","メイリオ","Meiryo",FontAwesome,sans-serif !important;
+}
+
+i {
+	font-style: normal;
 }
 
 body {

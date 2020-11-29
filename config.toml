@@ -27,9 +27,8 @@ description = "boku no houmupeiji"
 title404 = "Nothing's here!"
 
 [params.assets]
-favicon = "favicon.ico"
+favicon = "images/favicon.ico"
 customCSS = ["css/custom.css"]
-customJS = ["js/custom.js"]
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
@@ -88,3 +87,6 @@ hrefTargetBlank = true
 lang = "en"
 languageName = "English"
 weight = 1
+
+[markup.goldmark.renderer]
+unsafe = true
