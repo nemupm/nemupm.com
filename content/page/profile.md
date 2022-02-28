@@ -5,6 +5,14 @@ weight: -210
 comments: false
 ---
 
+<style type="text/css">
+#twitter {
+  border-bottom: none;
+}
+</style>
+
+<a id="twitter" class="fa fa-twitter fa-lg" href="https://twitter.com/nemupm"></a>
+
 #### EMPLOYMENT
 
 Data / Web / Game Engineer
