@@ -5,6 +5,7 @@ authors: ["nemupm"]
 categories:
   - announcement
 slug: 2017/11/20/blog-released
+toc: true
 ---
 
 ブログを始めました。

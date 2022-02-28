@@ -6,6 +6,7 @@ categories:
     - database
     - reading
 slug: 2017/12/11/dynamo
+toc: true
 ---
 
 会社で行っている輪読会でDynamoの論文を読んだので、そのために取ったメモを若干整形してまとめた。

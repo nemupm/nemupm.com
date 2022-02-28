@@ -5,6 +5,7 @@ authors: ["nemupm"]
 categories:
     - algorithm
 slug: 2019/03/03/chokudai-speed-run-001
+toc: true
 ---
 
 競技プログラミングの開催サイトで有名なAtCoderで、ChokudaiSpeedRunという、典型問題ばかりを取り扱ったコンテストがあったので、基礎力をつけようと思い、解いてみた。  

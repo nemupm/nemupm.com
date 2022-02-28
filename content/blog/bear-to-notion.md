@@ -5,6 +5,7 @@ authors: ["nemupm"]
 categories:
   - markdown
 slug: 2022/01/22/bear-to-notion
+toc: true
 ---
 「ブログを書くこと」を抱負の1つに入れてしまったので書きます。
 
