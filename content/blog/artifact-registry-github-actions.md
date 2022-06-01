@@ -11,7 +11,7 @@ slug: 2022/06/01/artifact-registry-github-actions
 
 - GitHub Actions で GCP Registry に Docker イメージをアップロードしたい
 - GCP の Registry は最近は Artifact Registry 推奨らしい
-- 認証は [Workload Identity 連携]([https://cloud.google.com/blog/ja/products/identity-security/enable-keyless-access-to-gcp-with-workload-identity-federation](https://cloud.google.com/blog/ja/products/identity-security/enable-keyless-access-to-gcp-with-workload-identity-federation)) がセキュアらしい
+- 認証は [Workload Identity 連携](https://cloud.google.com/blog/ja/products/identity-security/enable-keyless-access-to-gcp-with-workload-identity-federation) がセキュアらしい
   - サービスアカウントキーを発行せずに権限を付与 
 - 全部 Terraform でやりたい
 
