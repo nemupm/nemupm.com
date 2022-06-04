@@ -3,7 +3,9 @@ date: 2022-06-01T00:00:00+09:00
 title: Google Artifact Registry へ GitHub Actions でキー無しでイメージをアップロード with Terraform
 authors: ["nemupm"]
 categories:
-  - markdown
+  - terraform
+  - gcp
+  - github-actions
 slug: 2022/06/01/artifact-registry-github-actions
 ---
 

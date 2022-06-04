@@ -1,4 +1,4 @@
-baseURL = "http://nemupm.com"
+baseURL = "https://nemupm.com"
 title = "nemupm"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
